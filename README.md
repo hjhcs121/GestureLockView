@@ -1,4 +1,4 @@
-# GestureLockView
+# GestureLockView 
 
 **GestureLockView**是一个提供给Android的、简单易用的、可扩展的手势解锁框架。
 
